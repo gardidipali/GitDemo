@@ -48,6 +48,9 @@ public class BaseTest {
 		}
 		else if(BrowserName.equalsIgnoreCase("firefox")) {
 			//firefox
+			 driver =new ChromeDriver();
+			 driver =new ChromeDriver();
+				
 		}
 		
 		driver.manage().window().maximize();
