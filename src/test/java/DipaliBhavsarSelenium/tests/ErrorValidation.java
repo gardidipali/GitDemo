@@ -28,6 +28,7 @@ public class ErrorValidation extends BaseTest {
 		
 		///
 		System.out.println("Hi Git");
+		System.out.println("Hi Git2");
 	}
 	
 	@Test
